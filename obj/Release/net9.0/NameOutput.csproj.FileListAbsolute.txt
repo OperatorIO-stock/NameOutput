@@ -1,0 +1,14 @@
+/home/casper/Документы/Codes/NameOutput/bin/Release/net9.0/NameOutput
+/home/casper/Документы/Codes/NameOutput/bin/Release/net9.0/NameOutput.deps.json
+/home/casper/Документы/Codes/NameOutput/bin/Release/net9.0/NameOutput.runtimeconfig.json
+/home/casper/Документы/Codes/NameOutput/bin/Release/net9.0/NameOutput.dll
+/home/casper/Документы/Codes/NameOutput/bin/Release/net9.0/NameOutput.pdb
+/home/casper/Документы/Codes/NameOutput/obj/Release/net9.0/NameOutput.GeneratedMSBuildEditorConfig.editorconfig
+/home/casper/Документы/Codes/NameOutput/obj/Release/net9.0/NameOutput.AssemblyInfoInputs.cache
+/home/casper/Документы/Codes/NameOutput/obj/Release/net9.0/NameOutput.AssemblyInfo.cs
+/home/casper/Документы/Codes/NameOutput/obj/Release/net9.0/NameOutput.csproj.CoreCompileInputs.cache
+/home/casper/Документы/Codes/NameOutput/obj/Release/net9.0/NameOutput.dll
+/home/casper/Документы/Codes/NameOutput/obj/Release/net9.0/refint/NameOutput.dll
+/home/casper/Документы/Codes/NameOutput/obj/Release/net9.0/NameOutput.pdb
+/home/casper/Документы/Codes/NameOutput/obj/Release/net9.0/NameOutput.genruntimeconfig.cache
+/home/casper/Документы/Codes/NameOutput/obj/Release/net9.0/ref/NameOutput.dll
